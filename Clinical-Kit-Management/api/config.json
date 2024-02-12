@@ -1,0 +1,16 @@
+{
+    "host":"localhost",
+    "port":"3000",
+    "channelName":"mychannel",
+    "chaincodeName":"kitManagement",
+    "eventWaitTime":"30000",
+    "peers":[
+        "nd-dfwpuntkhrcpjmv63vki4ezfsm"
+    ],
+    "admins":[
+       {
+          "username":"priyamgupta09",
+          "secret":"Priyam12345"
+       }
+    ]
+ }
